@@ -1,0 +1,88 @@
+.item3{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: greenyellow;
+    font-size: 50px;
+      margin-bottom: 100px;
+  }
+  .grid{
+      justify-content: space-evenly;
+      font-family:cursive;
+      padding-bottom: 30px;
+    
+      font-size: 50px;
+      background-image: url('https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-atmospheric-medical-medical-symbol-gradient-poster-image_202320.jpg');
+    background-repeat: no-repeat;
+    background-position-x: 3  00px;
+    background-blend-mode: 500px;
+    background-size: 2000px;
+  }
+   
+  .grid img{
+      margin-left: 100px;
+  }
+  
+  
+  .item{
+      justify-content: space-evenly;
+      font-family:cursive;
+      padding-bottom: 30px;
+     
+      font-size: 50px;
+      background-image: url('https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-atmospheric-medical-medical-symbol-gradient-poster-image_202320.jpg');
+    background-repeat: no-repeat;
+    background-position-x: 3  00px;
+    background-blend-mode: 500px;
+    background-size: 2000px;
+  }
+   
+  .item img{
+      margin-left: 100px;
+  }
+  
+   
+  .item2{
+      font-family:cursive;
+      padding-left: 100px;
+      font-size: 50px;
+      background-image: url('https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-atmospheric-medical-medical-symbol-gradient-poster-image_202320.jpg');
+      background-repeat: no-repeat;
+      background-position-x: 3  00px;
+      background-blend-mode: 500px;
+      background-size: 2000px;
+  }
+  
+  
+  
+  a:link{
+      color: white;
+    }
+    a:visited{
+      color: white;
+    }
+  
+    .grid  img:hover{
+      transform: scale(1.2);
+    }
+    
+    a:link{
+      color: white;
+    }
+    a:visited{
+      color: white;
+    }
+  
+    .item  img:hover{
+      transform: scale(1.2);
+    }
+    
+    a:link{
+      color: white;
+    }
+    a:visited{
+      color: white;
+    }
+  
+    .item2  img:hover{
+      transform: scale(1.2);
+    }
+    
